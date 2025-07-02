@@ -1,0 +1,12 @@
+D:\Github\webapi-net8\Practice\CodeFirstBasic\CodeFirstBasic.Core\bin\Debug\net8.0\CodeFirstBasic.Core.deps.json
+D:\Github\webapi-net8\Practice\CodeFirstBasic\CodeFirstBasic.Core\bin\Debug\net8.0\CodeFirstBasic.Core.dll
+D:\Github\webapi-net8\Practice\CodeFirstBasic\CodeFirstBasic.Core\bin\Debug\net8.0\CodeFirstBasic.Core.pdb
+D:\Github\webapi-net8\Practice\CodeFirstBasic\CodeFirstBasic.Core\obj\Debug\net8.0\CodeFirstBasic.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\webapi-net8\Practice\CodeFirstBasic\CodeFirstBasic.Core\obj\Debug\net8.0\CodeFirstBasic.Core.AssemblyInfoInputs.cache
+D:\Github\webapi-net8\Practice\CodeFirstBasic\CodeFirstBasic.Core\obj\Debug\net8.0\CodeFirstBasic.Core.AssemblyInfo.cs
+D:\Github\webapi-net8\Practice\CodeFirstBasic\CodeFirstBasic.Core\obj\Debug\net8.0\CodeFirstBasic.Core.csproj.CoreCompileInputs.cache
+D:\Github\webapi-net8\Practice\CodeFirstBasic\CodeFirstBasic.Core\obj\Debug\net8.0\CodeFirstBasic.Core.sourcelink.json
+D:\Github\webapi-net8\Practice\CodeFirstBasic\CodeFirstBasic.Core\obj\Debug\net8.0\CodeFirstBasic.Core.dll
+D:\Github\webapi-net8\Practice\CodeFirstBasic\CodeFirstBasic.Core\obj\Debug\net8.0\refint\CodeFirstBasic.Core.dll
+D:\Github\webapi-net8\Practice\CodeFirstBasic\CodeFirstBasic.Core\obj\Debug\net8.0\CodeFirstBasic.Core.pdb
+D:\Github\webapi-net8\Practice\CodeFirstBasic\CodeFirstBasic.Core\obj\Debug\net8.0\ref\CodeFirstBasic.Core.dll

@@ -1,0 +1,16 @@
+D:\Github\webapi-net8\Practice\CodeFirstBasic\CodeFirstBasic.Contract.Repositories\bin\Debug\net8.0\CodeFirstBasic.Contract.Repositories.deps.json
+D:\Github\webapi-net8\Practice\CodeFirstBasic\CodeFirstBasic.Contract.Repositories\bin\Debug\net8.0\CodeFirstBasic.Contract.Repositories.dll
+D:\Github\webapi-net8\Practice\CodeFirstBasic\CodeFirstBasic.Contract.Repositories\bin\Debug\net8.0\CodeFirstBasic.Contract.Repositories.pdb
+D:\Github\webapi-net8\Practice\CodeFirstBasic\CodeFirstBasic.Contract.Repositories\obj\Debug\net8.0\CodeFirstBasic.Contract.Repositories.csproj.AssemblyReference.cache
+D:\Github\webapi-net8\Practice\CodeFirstBasic\CodeFirstBasic.Contract.Repositories\obj\Debug\net8.0\CodeFirstBasic.Contract.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\webapi-net8\Practice\CodeFirstBasic\CodeFirstBasic.Contract.Repositories\obj\Debug\net8.0\CodeFirstBasic.Contract.Repositories.AssemblyInfoInputs.cache
+D:\Github\webapi-net8\Practice\CodeFirstBasic\CodeFirstBasic.Contract.Repositories\obj\Debug\net8.0\CodeFirstBasic.Contract.Repositories.AssemblyInfo.cs
+D:\Github\webapi-net8\Practice\CodeFirstBasic\CodeFirstBasic.Contract.Repositories\obj\Debug\net8.0\CodeFirstBasic.Contract.Repositories.csproj.CoreCompileInputs.cache
+D:\Github\webapi-net8\Practice\CodeFirstBasic\CodeFirstBasic.Contract.Repositories\obj\Debug\net8.0\CodeFirstBasic.Contract.Repositories.sourcelink.json
+D:\Github\webapi-net8\Practice\CodeFirstBasic\CodeFirstBasic.Contract.Repositories\obj\Debug\net8.0\CodeFirstBasic.Contract.Repositories.dll
+D:\Github\webapi-net8\Practice\CodeFirstBasic\CodeFirstBasic.Contract.Repositories\obj\Debug\net8.0\refint\CodeFirstBasic.Contract.Repositories.dll
+D:\Github\webapi-net8\Practice\CodeFirstBasic\CodeFirstBasic.Contract.Repositories\obj\Debug\net8.0\CodeFirstBasic.Contract.Repositories.pdb
+D:\Github\webapi-net8\Practice\CodeFirstBasic\CodeFirstBasic.Contract.Repositories\obj\Debug\net8.0\ref\CodeFirstBasic.Contract.Repositories.dll
+D:\Github\webapi-net8\Practice\CodeFirstBasic\CodeFirstBasic.Contract.Repositories\bin\Debug\net8.0\CodeFirstBasic.Core.dll
+D:\Github\webapi-net8\Practice\CodeFirstBasic\CodeFirstBasic.Contract.Repositories\bin\Debug\net8.0\CodeFirstBasic.Core.pdb
+D:\Github\webapi-net8\Practice\CodeFirstBasic\CodeFirstBasic.Contract.Repositories\obj\Debug\net8.0\CodeFirs.27C8C93C.Up2Date
