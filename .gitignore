@@ -1,0 +1,50 @@
+## Build results
+bin/
+obj/
+out/
+
+## Rider
+.idea/
+
+## VS Code
+.vscode/
+
+## Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## Package folders
+**/packages/*
+*.nupkg
+*.snupkg
+
+# NuGet restore
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# .NET Core
+project.assets.json
+project.nuget.cache
+*.db
+
+# Logs
+*.log
+
+# User-specific files
+*.swp
+*.sdf
+*.cache
+*.dbmdl
+
+# Configuration files
+appsettings.Development.json
+appsettings.Local.json
+
+# EF Core Migrations model snapshot (optional)
+*Migrations/*ModelSnapshot.cs
